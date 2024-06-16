@@ -2,3 +2,6 @@ rootProject.name = 'SpringLearning'
 
 include '01-rest-web-service'
 include '02-consume-rest-service'
+include '03-rest-with-actuator'
+include '04-hypermedia-driven-rest-service'
+include '05-jpa-with-rest'
